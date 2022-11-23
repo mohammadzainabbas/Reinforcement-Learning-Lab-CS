@@ -62,7 +62,7 @@ Please check more details [here](https://github.com/mohammadzainabbas/Reinforcem
 
 <a id="lab-2" />
 
-#### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
+#### 3.2. Lab 02 - Q-Learning vs SARSA
 
 Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
 
