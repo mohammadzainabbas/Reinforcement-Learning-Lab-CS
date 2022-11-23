@@ -50,13 +50,13 @@ At the end of this course you will be able to:
 
 ### 3. Labs
 
-The main aim of this repository is to keep track of the work we have done in __Deep Learning (DL)__ labs.
+The main aim of this repository is to keep track of the work we have done in __Reinforcement Learning (RL)__ labs.
 
 #
 
 <a id="lab-1" />
 
-#### 3.1. Lab 01 - Manual implementation of Neural Networks and basics of Pytorch
+#### 3.1. Lab 01 - Exercise questions
 
 Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
 
