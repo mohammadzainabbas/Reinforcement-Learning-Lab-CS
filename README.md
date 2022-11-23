@@ -7,11 +7,8 @@
 - [About the course](#about-course)
   * [Main Topics](#main-topics)
 - [Labs](#labs)
-  * [Lab 01 - Q-Learning vs SARSA](#lab-1)
-  * [Lab 02 - Convolutional Neural Networks and Finetuning](#lab-2)
-  * [Lab 03 - Generative Models for images](#lab-3)
-  * [Lab 04 - Action classification for videos](#lab-4)
-  * [Lab 05 - Natural Language Processing with data processing and finetuning](#lab-5)
+  * [Lab 01 - Exercise questions](#lab-1)
+  * [Lab 02 - Q-Learning vs SARSA](#lab-2)
 - [Setup](#setup)
 
 
