@@ -83,6 +83,6 @@ git clone https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS.git
 cd Deep-Learning-Lab-CS/src/<lab-of-your-choice>
 ```
 
-> For e.g: if you want to practice lab # 1, then you should do `cd Deep-Learning-Lab-CS/src/multi-layer-perceptron`.
+> For e.g: if you want to practice lab # 2, then you should do `cd Deep-Learning-Lab-CS/src/q-learning_vs_sarsa`.
 
 #
