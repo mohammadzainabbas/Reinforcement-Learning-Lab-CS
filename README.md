@@ -64,26 +64,7 @@ Please check more details [here](https://github.com/mohammadzainabbas/Reinforcem
 
 #### 3.2. Lab 02 - Q-Learning vs SARSA
 
-Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
-
-<a id="lab-3" />
-
-#### 3.3. Lab 03 - Generative Models for images
-
-Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/generative-networks)
-
-
-<a id="lab-4" />
-
-#### 3.4. Lab 04 - Action classification for videos
-
-Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/action-classification-for-videos)
-
-<a id="lab-5" />
-
-#### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
-
-Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/natural_language_processing)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/q-learning_vs_sarsa)
 
 #
 
