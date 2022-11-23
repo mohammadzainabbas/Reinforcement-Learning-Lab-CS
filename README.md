@@ -58,32 +58,32 @@ The main aim of this repository is to keep track of the work we have done in __R
 
 #### 3.1. Lab 01 - Exercise questions
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
 
 <a id="lab-2" />
 
 #### 3.2. Lab 02 - Convolutional Neural Networks and Finetuning
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/convolutional-neural-network)
 
 <a id="lab-3" />
 
 #### 3.3. Lab 03 - Generative Models for images
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/generative-networks)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/generative-networks)
 
 
 <a id="lab-4" />
 
 #### 3.4. Lab 04 - Action classification for videos
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/action-classification-for-videos)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/action-classification-for-videos)
 
 <a id="lab-5" />
 
 #### 3.5. Lab 05 - Natural Language Processing with data processing and finetuning
 
-Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/tree/main/src/natural_language_processing)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/natural_language_processing)
 
 #
 
@@ -91,14 +91,14 @@ Please check more details [here](https://github.com/mohammadzainabbas/Deep-Learn
 
 ### 4. Setup
 
-Before starting, you may have to create new enviornment for the lab. Kindly, checkout the [documentation](https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS/blob/main/docs/SETUP_ENV.md) for creating an new environment.
+Before starting, you may have to create new enviornment for the lab. Kindly, checkout the [documentation](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/blob/main/docs/SETUP_ENV.md) for creating an new environment.
 
 #
 
 If you want to follow along with the lab exercises, make sure to clone and `cd` to the relevant lab's directory:
 
 ```bash
-git clone https://github.com/mohammadzainabbas/Deep-Learning-Lab-CS.git
+git clone https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS.git
 cd Deep-Learning-Lab-CS/src/<lab-of-your-choice>
 ```
 
