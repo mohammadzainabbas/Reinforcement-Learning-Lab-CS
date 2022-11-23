@@ -19,9 +19,6 @@ Now, you can create a new env via
 mamba env create -n machine_learning -f docs/config/tf-metal-arm64.yaml
 ```
 
-
-
-
 ### Installation Commands
 
 > If you have `Anaconda` installed already, you have to uninstall it first (at the time of writing, you can not install required dependencies on `Anaconda` installation for `conda`)
