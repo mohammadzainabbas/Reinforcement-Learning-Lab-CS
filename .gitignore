@@ -131,6 +131,7 @@ dmypy.json
 # Ignore these files
 commit.sh
 update_git.py
+.DS_Store
 
 # Ignore data folders
 src/**/data/*
