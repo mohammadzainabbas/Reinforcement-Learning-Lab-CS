@@ -1,1 +1,2 @@
-## Lab 02 - Q-Learning vs SARSA
+## Q-Learning vs SARSA
+
