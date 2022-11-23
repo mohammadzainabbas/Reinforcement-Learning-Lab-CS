@@ -18,3 +18,5 @@ dependencies:
     - plotly ## if you want to plot your data
     - pandas
     - numpy
+    - gym
+    - gym[toy_text]
