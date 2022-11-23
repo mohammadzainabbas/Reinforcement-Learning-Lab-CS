@@ -1,4 +1,4 @@
-## Basics of Deep Learning and Pytorch
+## Exercise questions
 
 For this lab, you need to have some ground understanding of pytorch, and basics introduction is available [here](https://pytorch.org/tutorials/beginner/basics/intro.html).
 
