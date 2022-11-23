@@ -58,7 +58,7 @@ The main aim of this repository is to keep track of the work we have done in __R
 
 #### 3.1. Lab 01 - Exercise questions
 
-Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/multi-layer-perceptron)
+Please check more details [here](https://github.com/mohammadzainabbas/Reinforcement-Learning-Lab-CS/tree/main/src/exercise-questions)
 
 <a id="lab-2" />
 
